@@ -1,0 +1,12 @@
+.idea
+*override.php
+*~*
+*conflicted*
+lib/limb
+.buildpath
+.project
+.settings
+var
+www/media
+www/shared
+www/product_images
